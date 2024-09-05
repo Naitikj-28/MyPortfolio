@@ -5,7 +5,7 @@ export default function Testimonial() {
     <section className="testimonial--section" id="testimonial">
       <div className="portfolio--container-box">
         <div className="portfolio--container">
-          <p className="sub--title">My Education</p>
+          <p className="sub--title">Organizations</p>
           <h2 className="sections--heading">Education & Experience</h2>
         </div>
       </div>
