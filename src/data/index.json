@@ -1,0 +1,71 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End Development",
+      "description": "Experienced in creating dynamic and responsive user interfaces using HTML, CSS, JavaScript, and frameworks like React.js. Strong focus on user experience and performance optimization."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End Development",
+      "description": "Proficient in building robust and scalable server-side applications using Node.js, Express.js, and working with databases such as MongoDB."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI/UX Design",
+      "description": "Skilled in designing intuitive and engaging user interfaces, with a strong emphasis on user-centered design principles, accessibility, and modern design trends."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "API Development",
+      "description": "Experienced in designing and implementing RESTful APIs and GraphQL services. Skilled in creating scalable and efficient endpoints, ensuring robust communication between front-end and back-end systems."
+    }
+  ],
+ "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/Picture1.png",
+      "title": "Drone Calculator",
+      "description": "A web application that calculates drone flight times and battery usage based on user inputs. Project for AccionLAND PVT LTD.",
+       "link": "https://github.com/Naitikj-28/Drone-Quoter"
+    },
+    {
+      "id": "2",
+      "src": "./img/DM4.png",
+      "title": "Cartographic Detail Maps",
+      "description": "Explore geographical data with interactive maps, providing detailed visualizations, layer control, and dynamic data insights."
+    },
+    {
+      "id": "3",
+      "src": "./img/WRW.jpg",
+      "title": "Water Reservoir Watch",
+      "description": "Provides real-time monitoring of water reservoir levels, allowing users to track and analyze water storage data for various reservoirs.",
+      "link": "https://github.com/Naitikj-28/Water-reservior"
+    },
+    {
+      "id": "4",
+      "src": "./img/Capture.PNG",
+      "title": "Chess Web Page",
+      "description": "An interactive chess game with features like move validation, user vs. computer & user vs. user play, and game details.",
+      "link": "https://github.com/Naitikj-28/chessmain"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "title": "Bachelor's Degree in Computer Science",
+      "description": "Pursing with a focus on software development and computer science fundamentals from Silver Oak University.",
+      "details": "Learned core programming concepts, algorithms, and data structures. Engaged in various projects involving web and mobile development."
+    },
+    {
+      "id": "2",
+      "title": "Web Development Internship",
+      "description": "Intensive internship focusing on full-stack web development, including both front-end and back-end technologies at AccionLAND Private Limited.",
+      "details": "Built multiple projects using modern web technologies like React.js, Node.js, and MongoDB. Gained hands-on experience with deployment and testing."
+    }
+  ]
+}
