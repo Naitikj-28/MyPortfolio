@@ -57,13 +57,13 @@
   "testimonial": [
     {
       "id": "1",
-      "title": "Bachelor's Degree in Computer Science",
+      "title": "Bachelor's Degree in Computer Science [2021-Present]",
       "description": "Pursing with a focus on software development and computer science fundamentals from Silver Oak University.",
       "details": "Learned core programming concepts, algorithms, and data structures. Engaged in various projects involving web and mobile development."
     },
     {
       "id": "2",
-      "title": "Web Development Internship",
+      "title": "Web Development Internship [2023-Present]",
       "description": "Intensive internship focusing on full-stack web development, including both front-end and back-end technologies at AccionLAND Private Limited.",
       "details": "Built multiple projects using modern web technologies like React.js, Node.js, and MongoDB. Gained hands-on experience with deployment and testing."
     }
