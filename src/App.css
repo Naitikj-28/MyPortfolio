@@ -504,9 +504,43 @@ h2 {
   transform: scale(1.1);
 }
 
+.resume-download {
+  margin-top: 2rem;
+}
+
+.resume-button {
+  background-color: #007bff; /* Primary color */
+  color: #fff;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.resume-button:hover {
+  background-color: #0056b3; 
+  transform: scale(1.05); 
+}
+
+.resume-button:active {
+  background-color: #004494; 
+}
+
+.resume-button:focus {
+  outline: none;
+}
+
 @media (max-width: 768px) {
   .contact--section {
     padding: 100px 20px;
+  }
+  
+  .resume-button {
+    width: 100%;
+    padding: 1rem;
+    font-size: 1.2rem;
   }
 }
 
